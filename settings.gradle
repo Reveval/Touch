@@ -1,0 +1,5 @@
+rootProject.name = "Touch"
+include ':app'
+include ':p1021touch'
+include ':p102touchsquare'
+include ':p1031multitouch'
